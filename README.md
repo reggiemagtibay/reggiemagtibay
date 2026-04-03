@@ -44,6 +44,18 @@ Analyzed global data to uncover how early detection, treatment access, and healt
 🔗 [View Project](https://github.com/reggiemagtibay/global-breast-cancer-analysis) 
 
 ---
+### 🐾 Wildlife Conservation Donation Analysis
+Analyzed donor behavior and campaign performance to uncover key drivers of donation trends and revenue in wildlife conservation efforts.
+
+- Discovered key donation trends by campaign type and time period  
+- Identified high-value donor segments for targeted engagement  
+- Recommended strategies to increase donor retention and revenue  
+
+**Focus:** `Data Analytics` · `Power BI` · `Business Insights` 
+
+🔗 [View Project](https://github.com/reggiemagtibay/wildlife-donation-analysis) 
+
+---
 
 ## 📖 Published Research
 - 📄 [Corporate Communications Journal Publication](https://doi.org/10.1108/CCIJ-04-2024-0072)
