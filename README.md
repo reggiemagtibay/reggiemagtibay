@@ -5,10 +5,10 @@ Curious about data, tech, and how things work. With a background in digital mark
 ---
 
 ## 🧠 About Me
-- 📊 I enjoy working with data to uncover patterns and insights that actually make sense  
+- 📊 I enjoy working with data to uncover patterns and meaningful insights  
 - 🔍 I approach problems with both a business and analytical mindset  
-- ⚡ Currently building projects focused on data analysis and visualization  
-- 🤖 Interested in AI, consumer behavior, and how technology shapes decisions
+- ⚡ Building projects focused on data analysis and visualization  
+- 🤖 Interested in AI, consumer behavior, and digital transformation  
 
 ---
 
@@ -30,10 +30,18 @@ Curious about data, tech, and how things work. With a background in digital mark
 
 ---
 
-## 📂 Featured Work
-- 📊 Sales Dashboard (Power BI)  
-- ☕ Coffee Shop Analysis (Excel)  
-- 🧠 Mental Health SQL Analysis  
+## 📂 Featured Projects
+
+### 🌍 Global Breast Cancer Outcomes Analysis
+Analyzed global data to uncover how early detection, treatment access, and healthcare infrastructure impact survival outcomes across countries.
+
+- Identified survival inequalities across income groups and cancer stages  
+- Explored the relationship between screening coverage and early detection  
+- Provided data-driven recommendations to improve healthcare outcomes
+
+**Focus:** `Data Analytics` · `Power BI` · `Business Insights` 
+
+🔗 [View Project](https://github.com/reggiemagtibay/global-breast-cancer-analysis) 
 
 ---
 
