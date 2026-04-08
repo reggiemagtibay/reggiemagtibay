@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Reggie
 
-### Curious about data, tech, and how things work. With a background in digital marketing, I specialize in turning data into actionable business insights using SQL, Power BI, and Excel.
+Curious about data, tech, and how things work. With a background in digital marketing, I specialize in turning data into actionable business insights using SQL, Power BI, and Excel.
+
 ---
 
 ## 🧠 About Me
