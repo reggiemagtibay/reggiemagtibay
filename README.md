@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Reggie
 
-Curious about data, tech, and how things work. With a background in digital marketing, I create data-driven projects using SQL, Power BI, and Excel.
-
+### Curious about data, tech, and how things work. With a background in digital marketing, I specialize in turning data into actionable business insights using SQL, Power BI, and Excel.
 ---
 
 ## 🧠 About Me
@@ -17,6 +16,7 @@ Curious about data, tech, and how things work. With a background in digital mark
 ### 📊 Data Analytics
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📈 Tools & Workflow
@@ -69,7 +69,9 @@ Analyzed donor behavior and campaign performance to uncover key drivers of donat
 ---
 
 ## 📖 Published Research
-- 📄 [Corporate Communications Journal Publication](https://doi.org/10.1108/CCIJ-04-2024-0072)
+- 📄 *Anthropomorphism and Diversity in Virtual Humans: Their Influence on Gen Z Trust and Attitudes*  
+  — Corporate Communications: An International Journal  
+  🔗 https://doi.org/10.1108/CCIJ-04-2024-0072
 
 ---
 
