@@ -30,6 +30,20 @@ Curious about data, tech, and how things work. With a background in digital mark
 
 ## 📂 Featured Projects
 
+### 🚛 Fleet Profitability & Supply Chain Performance Intelligence Analysis
+Performed end-to-end logistics and transportation analytics using SQL and Power BI to evaluate route profitability, fleet maintenance, driver productivity, customer segmentation, and predictive revenue forecasting.
+
+- Identified high-margin transportation routes and operational inefficiencies  
+- Evaluated fleet maintenance burdens and asset lifecycle profitability  
+- Developed predictive revenue dashboards for strategic supply chain planning  
+- Delivered executive-level recommendations for route optimization, fleet modernization, and customer growth  
+
+**Focus:** `SQL` · `Power BI` · `Supply Chain Analytics` · `Forecasting` · `Business Intelligence`  
+
+🔗 [View Project](https://github.com/reggiemagtibay/fleet-profitability-supply-chain-logistics-analysis)
+
+---
+
 ### 🛒 Retail Profitability & Discount Impact Analysis
 Analyzed retail transaction data using SQL and Power BI to uncover key drivers of profitability, focusing on discount strategies, regional performance, and category-level insights.
 
@@ -53,19 +67,6 @@ Analyzed global data to uncover how early detection, treatment access, and healt
 **Focus:** `Data Analytics` · `Power BI` · `Business Insights`  
 
 🔗 [View Project](https://github.com/reggiemagtibay/global-breast-cancer-analysis) 
-
----
-
-### 🐾 Wildlife Conservation Donation Analysis
-Analyzed donor behavior and campaign performance to uncover key drivers of donation trends and revenue in wildlife conservation efforts.
-
-- Discovered key donation trends by campaign type and time period  
-- Identified high-value donor segments for targeted engagement  
-- Recommended strategies to increase donor retention and revenue  
-
-**Focus:** `Data Analytics` · `Power BI` · `Business Insights`  
-
-🔗 [View Project](https://github.com/reggiemagtibay/wildlife-donation-analysis) 
 
 ---
 
