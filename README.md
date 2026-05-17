@@ -31,7 +31,7 @@ Curious about data, tech, and how systems perform. With a background in digital 
 
 ## 📂 Featured Projects
 
-## 🏋️ Athlete Recovery & Biometric Performance Intelligence Analysis
+### 🏋️ Athlete Recovery & Biometric Performance Intelligence Analysis
 
 Performed end-to-end Databricks SQL analytics on wearable biometric and athlete recovery data to evaluate physiological readiness, recovery sustainability, behavioral stress impacts, and overtraining risks across 8K+ athlete performance records.
 
@@ -44,6 +44,8 @@ Performed end-to-end Databricks SQL analytics on wearable biometric and athlete 
 **Focus:** `Databricks` `SQL` `Sports Analytics` `HealthTech` `Wearable Data` `Business Intelligence` `Dashboarding`
 
 🔗 [View Project](https://github.com/reggiemagtibay/athlete-recovery-biometric-performance-intelligence-analysis)
+
+---
 
 ### 🚛 Fleet Profitability & Supply Chain Performance Intelligence Analysis
 Performed end-to-end logistics and transportation analytics using SQL and Power BI to evaluate route profitability, fleet maintenance, driver productivity, customer segmentation, and predictive revenue forecasting.
