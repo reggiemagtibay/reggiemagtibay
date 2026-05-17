@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Reggie
 
-Curious about data, tech, and how things work. With a background in digital marketing, I specialize in turning data into actionable business insights using SQL, Power BI, and Excel.
+Curious about data, tech, and how systems perform. With a background in digital marketing, I specialize in transforming complex data into actionable business intelligence through Databricks, SQL, Power BI, and strategic analytics storytelling.
 
 ---
 
 ## 🧠 About Me
 - 📊 I enjoy working with data to uncover patterns and meaningful insights  
 - 🔍 I approach problems with both a business and analytical mindset  
-- ⚡ Building projects focused on data analysis and visualization  
-- 🤖 Interested in AI, consumer behavior, and digital transformation  
+- ⚡ Building projects focused on data analysis and visualization
+- 🤖 Interested in AI, consumer behavior, and digital transformation
 
 ---
 
@@ -17,6 +17,7 @@ Curious about data, tech, and how things work. With a background in digital mark
 ### 📊 Data Analytics
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -29,6 +30,20 @@ Curious about data, tech, and how things work. With a background in digital mark
 ---
 
 ## 📂 Featured Projects
+
+## 🏋️ Athlete Recovery & Biometric Performance Intelligence Analysis
+
+Performed end-to-end Databricks SQL analytics on wearable biometric and athlete recovery data to evaluate physiological readiness, recovery sustainability, behavioral stress impacts, and overtraining risks across 8K+ athlete performance records.
+
+- Identified systemic recovery deficits, cumulative fatigue cycles, and high-risk athlete populations
+- Evaluated how HRV, sleep duration, stress, gender, and training modalities influence recovery outcomes
+- Developed Bronze/Silver/Gold lakehouse architecture with advanced SQL feature engineering
+- Built four executive Databricks dashboards for recovery optimization, athlete segmentation, and strategic performance planning
+- Delivered stakeholder-focused recommendations for training optimization, recovery personalization, and burnout prevention
+
+**Focus:** `Databricks` `SQL` `Sports Analytics` `HealthTech` `Wearable Data` `Business Intelligence` `Dashboarding`
+
+🔗 [View Project](https://github.com/reggiemagtibay/athlete-recovery-biometric-performance-intelligence-analysis)
 
 ### 🚛 Fleet Profitability & Supply Chain Performance Intelligence Analysis
 Performed end-to-end logistics and transportation analytics using SQL and Power BI to evaluate route profitability, fleet maintenance, driver productivity, customer segmentation, and predictive revenue forecasting.
